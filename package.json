@@ -1,0 +1,25 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "code practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohall/katas.git"
+  },
+  "keywords": [],
+  "author": "Oakley Hall <oakley349@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ohall/katas/issues"
+  },
+  "homepage": "https://github.com/ohall/katas#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
